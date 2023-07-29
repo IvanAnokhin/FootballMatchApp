@@ -1,0 +1,23 @@
+/* Пример стилизации для кнопки */
+.button {
+    -fx-background-color: #4CAF50; /* Задаем цвет фона кнопки */
+    -fx-text-fill: white; /* Задаем цвет текста кнопки */
+    -fx-font-size: 12px; /* Задаем размер шрифта */
+}
+
+/* Пример стилизации для выбора лиги */
+.choice-box {
+    -fx-font-size: 12px; /* Задаем размер шрифта */
+}
+
+/* Пример стилизации для метки с ошибкой */
+.error-label {
+    -fx-text-fill: red; /* Задаем красный цвет текста */
+}
+.tab-vbox {
+    -fx-alignment: center;
+}
+
+.text-area {
+    -fx-text-alignment: center;
+}
